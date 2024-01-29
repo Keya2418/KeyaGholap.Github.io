@@ -1,6 +1,6 @@
-## Personal Portfolio Website  🌟 ##
+# Portfolio Wonderland 🌟
 
-Welcome to my galaxy in the digital universe! 🚀 Here lies the culmination of my digital journey, a manifestation of my creativity and coding passion. Behold, the portal to my skills, projects, and aspirations!
+Welcome to my personal galaxy in the digital universe! 🚀 Here lies the culmination of my digital journey, a manifestation of my creativity and coding passion. Behold, the portal to my skills, projects, and aspirations!
 
 ## 🎨 The Artistry Behind the Code
 
@@ -15,10 +15,11 @@ Immerse yourself in the symphony of HTML and CSS, the paintbrushes I wielded to 
 
 ## 🌌 Explore the Cosmos
 
-Visit [My Portfolio](your-portfolio-link) and stroll through the cosmos of my digital world. Witness the convergence of art and code, a testament to my dedication to the craft.
+Visit https://keya2418.github.io/KeyaGholap.github.io/ and take a stroll through the cosmos of my digital world. Witness the convergence of art and code, a testament to my dedication to the craft.
 
 ## 🌠 Gratitude
 
 A cosmic 'thank you' for exploring my digital haven. May you find inspiration, curiosity, and a glimpse into the coder's universe.
 
 **May your code compile and your dreams take flight! 🚀✨**
+
