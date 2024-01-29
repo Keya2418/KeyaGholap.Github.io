@@ -1,6 +1,6 @@
 # Personal Portfolio Website 🌟
 
-Welcome to my personal galaxy in the digital universe! 🚀 Here lies the culmination of my digital journey, a manifestation of my creativity and coding passion. Behold, the portal to my skills, projects, and aspirations!
+Welcome to my galaxy in the digital universe! 🚀 Here lies the culmination of my digital journey, a manifestation of my creativity and coding passion. Behold, the portal to my skills, projects, and aspirations!
 
 ## 🎨 The Artistry Behind the Code
 
