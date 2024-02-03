@@ -15,7 +15,7 @@ Immerse yourself in the symphony of HTML and CSS, the paintbrushes I wielded to 
 
 ## 🌌 Explore the Cosmos
 
-Visit https://keya2418.github.io/KeyaGholap.github.io/ and take a stroll through the cosmos of my digital world. Witness the convergence of art and code, a testament to my dedication to the craft.
+Visit https://keya2418.github.io/Personal-Portfolio/ and take a stroll through the cosmos of my digital world. Witness the convergence of art and code, a testament to my dedication to the craft.
 
 ## 🌠 Gratitude
 
